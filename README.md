@@ -1,4 +1,4 @@
-# Assignment 2 - Linked List & Stack
+# Assignment 2 - Linked List & Stack: Mateo Roman
 ---
 ### Run via cmd with `g++ -o main main.cpp single_ll.cpp stack.cpp && ./main`
 
